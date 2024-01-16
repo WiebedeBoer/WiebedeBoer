@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WiebedeBoer
-- 👀 I’m interested in PHP, JavaScript, C#, Python
-- 🌱 I’m currently learning Java, Delphi
+- Knows some PHP, JavaScript, C#, C++, Python, Java 
+- Dislikes R
 
 <!---
 WiebedeBoer/WiebedeBoer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
